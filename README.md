@@ -5,6 +5,8 @@ I am interested in learning everything there is to know to become a Front-End We
 Being that there are a lot of content to review within this class, I like the videos. Learning for me I am a hands-on learning, I have to be able to following along with my hands to understand what I am doing.
 
 i am currently on 1.2 Review Lesson Essential JavaScript, on the arrays video. I have already done Adding JS & Scope & Var. I have tried to use terminal but Github Desktop is better for me. Terminal is to hard. But I have created the ssh key & I have it on my Github but it is just not working for me. So I will be sticking to using Github Desktop.
+
+I am currently still on the 1.2 Lesson review, I will finish all of the videos & do all of my commits tonight. I do think there should be more hands on learning for this class. I will also watch the live ;ecture that is available to watch. I will also get the rest of the lesson reviews finished today.
 <!--
 **ChalmersSachi-FS/ChalmersSachi-FS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
