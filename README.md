@@ -9,9 +9,8 @@ I am currently on 1.2 Review Lesson Essential JavaScript, on the arrays video. I
 I am currently still on the 1.2 Lesson review, I will finish all of the videos & do all of my commits tonight. I do think there should be more hands on learning for this class. I will also watch the live lecture that is available to watch. I will also get the rest of the lesson reviews finished today.
 
 Currently, I am finishing the 1.2 Essential JavaScript Lesson Review, I am following along as far as taking the notes in the start file & commiting the changes I am  making with the JS Review in the github classroom repo. The video I am on now is Combining Arrays and Objects. I have finished the Combining Arrays and Objects & Arrow Functions videos & I have followed along with the video. 
-I am now starting the Looping Video / Notes in JavaScript.
+I am now starting the Looping Video / Notes in JavaScript. I still have to watch the first live lecture & the second one & take the notes as well. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 1.2 Review Lesson Essential JavaScript ...
+- 🔭 I’m currently working on 1.2 Review Lesson Essential JavaScript, finishing all videos & taking all notes in JavaScript then have to watch both live lectures & take those notes as well...
 - 🌱 I’m currently learning Application Development...
+
