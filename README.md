@@ -15,3 +15,8 @@ I am now starting the Looping Video / Notes in JavaScript. I still have to watch
 - 🌱 I’m currently learning Application Development...
 
 I have finally finished all review lessons that are due on the 11th.  I will be watching both live lectures & taking notes while watching the videos.
+
+Today 2/12/24 I will be doing the 1.7 discussion that is due on the 13th. I still have yet to watch both live lectures & take the notes. Once I am done with the 1.7 Discussion assignment, I will watch both live lectures & take the notes. 
+
+- 🔭 I’m currently working on 1.7 Discussion Assignment, Then will be watching both live lectures & taking the notes. 
+- 🌱 I’m currently learning Application Development...
