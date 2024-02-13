@@ -20,3 +20,7 @@ Today 2/12/24 I will be doing the 1.7 discussion that is due on the 13th. I stil
 
 - 🔭 I’m currently working on 1.7 Discussion Assignment, Then will be watching both live lectures & taking the notes. 
 - 🌱 I’m currently learning Application Development...
+  
+2/13/24
+I have currently finished taking the quiz. Later on I will work on both assignments that are due on the 14th. 
+I have finished half of the live lecture, have to finish watching & taking notes. 
