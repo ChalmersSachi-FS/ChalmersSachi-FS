@@ -30,4 +30,5 @@ i have finished all of week 1 work & recieved grades on all of my week 1 assignm
 2/18/24 (WEEK 2)
 Currently finising all Review Lessons finished, then going to work on both assignments and make sure to commit as often for assignment as well. 
 
-
+- Finished all the review lessons. Starting the assignments now at 2:40pm.
+- 6:46pm just finished the 2.6 Assignment, going to zip and submit file & work on the last assignment for week 2. 
