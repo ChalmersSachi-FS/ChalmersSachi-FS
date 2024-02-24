@@ -33,5 +33,7 @@ Currently finising all Review Lessons finished, then going to work on both assig
 - Finished all the review lessons. Starting the assignments now at 2:40pm.
 - 6:46pm just finished the 2.6 Assignment, going to zip and submit file & work on the last assignment for week 2. 
 
+Week 3: 2/24/24
+Currently working on all review lessons and notes for week 3 then will be starting assignment.
 Monday 2/19/24
 I have finished the 2.8 Assignment for week 2. I will be starting some of week 3 review lessons and take notes until the Live Lecture on Wednesday. i will also start the discussion post later on today.l 
