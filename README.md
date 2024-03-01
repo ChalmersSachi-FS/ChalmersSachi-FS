@@ -33,3 +33,5 @@ Currently working on all review lessons and notes for week 3 then will be starti
 
 12:33pm 
 Currently working on all review lessons will be doing assignment after I get all review lessons done. Just installed NODE on my Macbook.
+
+2:04pm FINALLY finished assignment 4.
