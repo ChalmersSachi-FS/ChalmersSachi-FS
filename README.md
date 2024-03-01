@@ -30,3 +30,6 @@ Currently finising all Review Lessons finished, then going to work on both assig
 Monday 2/19/24
 I have finished the 2.8 Assignment for week 2. I will be starting some of week 3 review lessons and take notes until the Live Lecture on Wednesday. i will also start the discussion post later on today.      Week 3: 2/24/24
 Currently working on all review lessons and notes for week 3 then will be starting assignment. I have finished lesson 3.2 in week 3 starting the next lesson. I have watched lesson 3.3, I have finished all reviews. I will be taking notes and doing the assignment tomorrow.
+
+12:33pm 
+Currently working on all review lessons will be doing assignment after I get all review lessons done. Just installed NODE on my Macbook.
